@@ -1,0 +1,41 @@
+.cnter{
+background-color: white;
+position:absolute ;
+padding: 10px;
+border: 10px;
+border-color: black;
+border-style: solid;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50% );
+z-index: 1;
+}
+body{
+    background-color: blue;
+    
+}
+.img1{
+width: 250px;
+height: 250px;
+}
+h3{
+display:inline;
+font-size: 60px;
+font-weight: 100;
+
+}
+
+button{
+padding: 10px;
+background-color: cornflowerblue;
+border:0px ;
+}
+
+.hoom{
+    background-color: cornflowerblue;
+    position:fixed ;
+    width: 100%;
+    padding: 10px;
+    top: 0px;
+    right: 0px;
+}
